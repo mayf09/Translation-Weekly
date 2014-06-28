@@ -1,3 +1,35 @@
-.subtitle {margin-bottom:1px;
-           background-color:orange;
-          }
+body {
+    background-color: #eee;
+    margin: 10px 10%;
+}
+
+.title {
+    text-align: center;
+}
+
+td.zh {
+    font-size: small;
+}
+
+.title2nd, .title3rd {
+    text-align: right;
+}
+
+td {
+    text-align: justify;
+    border: 1px solid;
+}
+
+.article {
+    text-indent: 2em;
+}
+
+.subtitle {
+    margin-bottom: 0;
+    color: orange;
+    background-color: gray;
+}
+
+p {
+    margin-top: 0;
+}
