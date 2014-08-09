@@ -4,7 +4,6 @@ body {
 }
 
 .pretitle {
-    text-align: left;
     color: red;
 }
 
@@ -15,6 +14,7 @@ body {
 td.zh {
     font-size: small;
 }
+
 
 .title2nd, .title3rd {
     text-align: right;
